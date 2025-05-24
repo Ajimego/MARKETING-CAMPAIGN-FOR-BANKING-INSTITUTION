@@ -76,7 +76,7 @@ Off-peak period.
 
 ### Limitations
 
-I had to remove all zero value from balance and age column and unknown from job,education and contact column.
+I had to remove all zero value from balance and age column and unknown from job,education and contact column because they would have affected the accuracy of the my conclusion.
 
 
 ### Reference

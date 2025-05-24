@@ -4,6 +4,11 @@
 
 This data analysis project aims to provide insight of the subscriptions made by different group in a marketing campaing carried out by a bank in a year,By analysing various aspect of the data, we seek to identify trends, make recomendations,and gain understanding of the marketing performance.
 
+![image](https://github.com/user-attachments/assets/0c8bb79a-9448-4896-a2af-89ea9392e47e)
+
+
+
+
 ### Data Sources
 
 marketing campaign data:the main data set used for this analysis is the "bank.csv" file contain detailed information about each markeing campaign made by the bank.
